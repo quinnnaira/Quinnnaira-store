@@ -1,6 +1,6 @@
 # Quinnnaira store
 
-A Ecommerce Website made with React.js Framework.
+An Ecommerce Website made with React.js Framework.
 
 
 
